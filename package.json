@@ -2,9 +2,10 @@
   "name": "matrix-assignment-backend-nodejs",
   "version": "1.0.0",
   "description": "Matrice.ai assignment backend",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "npm run server.js"
+    "test": "npm run server.js",
+    "start" : "node server.js"
   },
   "author": "",
   "license": "ISC",
